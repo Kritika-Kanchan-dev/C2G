@@ -4,10 +4,10 @@
 - **Name:** Kritika Kanchan
  
 ## Progress Summary
-- **Status:** 🟡 In Progress
-- **Submitted Questions:** 5 / 6
-- **Total Score:** 28 / 34 points
-- **Last Updated:** 7/2/2026, 9:34:04 PM (IST)
+- **Status:** 🟢 Completed
+- **Submitted Questions:** 6 / 6
+- **Total Score:** 34 / 34 points
+- **Last Updated:** 7/2/2026, 9:40:44 PM (IST)
  
 ---
  
@@ -19,7 +19,7 @@
 | 3 | Traffic Light Assistant | medium | 4 / 4 | 🟢 Passed | [View Code](./Question%203/question.java) |
 | 4 | Phone Charging | easy | 4 / 4 | 🟢 Passed | [View Code](./Question%204/question.java) |
 | 5 | Smart Fan Controller | medium | 10 / 10 | 🟢 Passed | [View Code](./Question%205/question.java) |
-| 6 | Mobile Data Rollover | hard | - / 6 | 🔴 Pending | - |
+| 6 | Mobile Data Rollover | hard | 6 / 6 | 🟢 Passed | [View Code](./Question%206/question.java) |
 
 ---
  
@@ -53,6 +53,12 @@
 - **Score:** 10 / 10 points
 - **Visible Test Cases:** 2 / 2 passed
 - **Hidden Test Cases:** 0 / 0 passed
+- **Status:** Submitted
+
+### Question 6: Mobile Data Rollover
+- **Score:** 6 / 6 points
+- **Visible Test Cases:** 2 / 2 passed
+- **Hidden Test Cases:** 3 / 3 passed
 - **Status:** Submitted
 
 
