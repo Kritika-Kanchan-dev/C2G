@@ -5,9 +5,9 @@
  
 ## Progress Summary
 - **Status:** 🟡 In Progress
-- **Submitted Questions:** 4 / 6
-- **Total Score:** 24 / 34 points
-- **Last Updated:** 7/2/2026, 9:31:38 PM (IST)
+- **Submitted Questions:** 5 / 6
+- **Total Score:** 28 / 34 points
+- **Last Updated:** 7/2/2026, 9:34:04 PM (IST)
  
 ---
  
@@ -16,7 +16,7 @@
 |---|----------------|------------|-------|--------|-----------|
 | 1 | Weekend Discount | medium | 4 / 4 | 🟢 Passed | [View Code](./Question%201/question.java) |
 | 2 | Internet Speed Checker | medium | 6 / 6 | 🟢 Passed | [View Code](./Question%202/question.java) |
-| 3 | Traffic Light Assistant | medium | - / 4 | 🔴 Pending | - |
+| 3 | Traffic Light Assistant | medium | 4 / 4 | 🟢 Passed | [View Code](./Question%203/question.java) |
 | 4 | Phone Charging | easy | 4 / 4 | 🟢 Passed | [View Code](./Question%204/question.java) |
 | 5 | Smart Fan Controller | medium | 10 / 10 | 🟢 Passed | [View Code](./Question%205/question.java) |
 | 6 | Mobile Data Rollover | hard | - / 6 | 🔴 Pending | - |
@@ -35,6 +35,12 @@
 - **Score:** 6 / 6 points
 - **Visible Test Cases:** 2 / 2 passed
 - **Hidden Test Cases:** 3 / 3 passed
+- **Status:** Submitted
+
+### Question 3: Traffic Light Assistant
+- **Score:** 4 / 4 points
+- **Visible Test Cases:** 2 / 2 passed
+- **Hidden Test Cases:** 2 / 2 passed
 - **Status:** Submitted
 
 ### Question 4: Phone Charging
