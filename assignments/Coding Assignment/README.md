@@ -5,9 +5,9 @@
  
 ## Progress Summary
 - **Status:** 🟡 In Progress
-- **Submitted Questions:** 2 / 6
-- **Total Score:** 8 / 34 points
-- **Last Updated:** 7/2/2026, 9:27:14 PM (IST)
+- **Submitted Questions:** 3 / 6
+- **Total Score:** 18 / 34 points
+- **Last Updated:** 7/2/2026, 9:29:13 PM (IST)
  
 ---
  
@@ -18,7 +18,7 @@
 | 2 | Internet Speed Checker | medium | - / 6 | 🔴 Pending | - |
 | 3 | Traffic Light Assistant | medium | - / 4 | 🔴 Pending | - |
 | 4 | Phone Charging | easy | 4 / 4 | 🟢 Passed | [View Code](./Question%204/question.java) |
-| 5 | Smart Fan Controller | medium | - / 10 | 🔴 Pending | - |
+| 5 | Smart Fan Controller | medium | 10 / 10 | 🟢 Passed | [View Code](./Question%205/question.java) |
 | 6 | Mobile Data Rollover | hard | - / 6 | 🔴 Pending | - |
 
 ---
@@ -35,6 +35,12 @@
 - **Score:** 4 / 4 points
 - **Visible Test Cases:** 2 / 2 passed
 - **Hidden Test Cases:** 2 / 2 passed
+- **Status:** Submitted
+
+### Question 5: Smart Fan Controller
+- **Score:** 10 / 10 points
+- **Visible Test Cases:** 2 / 2 passed
+- **Hidden Test Cases:** 0 / 0 passed
 - **Status:** Submitted
 
 
